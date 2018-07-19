@@ -1,0 +1,9 @@
+#root > section > div{
+  display: flex;
+  background-color: orange;
+  border: 1px solid black;
+  font-family: sans-serif;
+  justify-content: space-between;
+  width: 700px;
+  height: 200px;
+}
